@@ -1,1 +1,1 @@
-# vanilla-hang-man
+# hang-man
